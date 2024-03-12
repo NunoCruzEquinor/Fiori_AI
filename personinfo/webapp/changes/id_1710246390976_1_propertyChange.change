@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1710246390976_1_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "personinfo",
+    "packageName": "",
+    "content": {
+        "property": "visible",
+        "newValue": true
+    },
+    "selector": {
+        "id": "personinfo::sap.suite.ui.generic.template.ListReport.view.ListReport::EmployeeDetailsSet--template::Share",
+        "idIsLocal": false,
+        "type": "sap.m.Button"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/personinfo/changes/",
+    "projectId": "",
+    "creation": 1710246390976,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.120.6",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}

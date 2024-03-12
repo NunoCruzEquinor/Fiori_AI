@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "ui5-middleware-proxy-basicauth": "^0.0.6"
+  }
+}
